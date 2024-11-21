@@ -1,0 +1,42 @@
+### GET
+GET http://localhost:4000/
+
+### POST
+POST http://localhost:4000/
+
+{ "messages": [{ "role": "user", "content": "Ciao mi dai la lista dei task"}] }
+
+### POST AI add Cut hais
+POST http://localhost:3000/ai
+
+{ "description": "i must go cut my hair tomorrow" }
+
+### POST AI ass Wash Car
+POST http://localhost:3000/ai
+
+{ "description": "I should wash my car" }
+
+### POST AI add Go To shop
+POST http://localhost:3000/ai
+
+{ "description": "I must buy something for dinner" }
+
+### POST AI SET Wash Car as DONE
+POST http://localhost:3000/ai
+
+{ "description": "set wash my car as done" }
+
+### POST AI SET buy dinner as DONE using conversation
+POST http://localhost:3000/ai
+
+{ "description": "Yes mark the task as done, please" }
+
+### POST AI remove item
+POST http://localhost:3000/ai
+
+{ "description": "Can your remove all remaining items from the list?" }
+
+### POST AI add multiple items to to do list
+POST http://localhost:3000/ai
+
+{ "description": "Tomorrow i must go to the shop to buy some candies and i should go to cut my hairs. After that I must go to wash my car. Can you add all this items to todo list?" }

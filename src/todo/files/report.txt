@@ -1,0 +1,7 @@
+Descrizione,Stato,Stima
+"ricordarsi di fare il regalo ad ali","Non completato","1 giorno"
+"mail di Alfredo: individuare quattro punti chiave da aggiungere alla lista","Non completato","2 giorni"
+"Configuratore Automatico: U360v2.0 introduce un sistema per generare automaticamente offerte per la gestione dei rifiuti, integrando servizi esistenti e automatizzando il flusso degli ordini.","Non completato","5 giorni"
+"Funzionalità Estese: Il sistema è progettato per essere utilizzato sia dai Rivenditori che dai Clienti Finali, con un'interfaccia per la raccolta dati e un calcolatore per i prezzi.","Non completato","3 giorni"
+"Integrazione con Partner: Il configuratore può essere integrato nei gestionali di partner terzi, offrendo nuove opportunità di collaborazione e espansione dei servizi.","Non completato","4 giorni"
+"Notifiche e Alert: Sono previsti sistemi di notifica e alert per tenere informati gli utenti sui cambiamenti di stato delle richieste.","Completato","Completato"

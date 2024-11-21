@@ -1,0 +1,17 @@
+Quando scegli Cliente MULTISEDE il sistema deve spiegare al Cliente che le configurazioni a CARRELLO sono possibili su una sola sede del Cliente   Ci potresti fornire il messaggio?
+In effetti è al punto 2. “Indicare se lo smaltimento va effettuato su di una sola sede o su più sedi del cliente”
+
+Come è adesso uno puo’ pensare che le configurazioni a CARRELLO sono possibili solo su Clienti che hanno una sola sede. Sostituire la scritta “Seleziona la tipologia del cliente” con “Indicare se lo smaltimento va effettuato su di una sola sede o su più sedi del cliente”  Ok, modifichiamo
+Ho capito che la grafica va sistemata, in effetti quando si apre la prima pagina della richiesta a Carrello ancora si rischia di perdersi (è un po’ confuzionaria)  Ci sta lavorando Federico oggi per adeguarla alla grafica della pagina di creazione
+Possiamo levare la Descrizione e la Provincia sulla seconda pagina ? Che utilità ha riproporle in questa pagina ?  Ok, modifichiamo
+Al posto di “Peso totale” mettiamo “peso totale stimato”  Ok, modifichiamo
+I bottoni AGGIUNGI e ELIMINA a dx di un rifiuto possiamo chiamarli “AGGIUNGI QUESTO RIFIUTO” e “ELIMINA QUESTO RIFIUTO” ?  Ok, modifichiamo
+Se i dati di facchinaggio sono obbligatori, sarebbe meglio che i prezzi non fossero visibili sino a che essi non vengono completati.  Lo segno tra le cose in azzurro da fare dopo fine Ottobre
+Ok ne riparliamo
+
+Al posto di SALVA mettiamo “SALVA PREVENTIVO”  Ok, modifichiamo
+Al posto di “Muletto” mettiamo “E’ disponibile un muletto presso il cliente ?”  Ok, modifichiamo
+Nella versione ADMIN non vedo titti i prezzi/costi/margini della tabella  Ci sta lavorando Jacek oggi
+Quando schiaccio SALVA finisco qui : https://preprod.zerozerotoner.net/Admin/DisposalQuote  Verifichiamo
+Avevamo detto di togliere questa parte ?  In che pagina? Dalla pagina di creazione l'abbiamo tolta, mentre nella pagina di modifica ci deve essere sicuramente. 
+Ma perché ? Il Rivenditore deve assicurare che questi dati siano presenti solo quando genera un’ offerta; fino a che non lo fa non ci interessa sapere chi è il cliente ed avere tutti i dati. Sbaglio ?
